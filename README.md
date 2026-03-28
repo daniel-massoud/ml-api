@@ -55,8 +55,8 @@ uvicorn main:app --reload
 ## Tech stack
 
 - Python
-- FastAPI — REST API framework
-- Docker — containerization
-- HuggingFace Transformers — ML model
-- DistilBERT — sentiment classification model
-- Uvicorn — ASGI server
+- FastAPI -> REST API framework
+- Docker -> containerization
+- HuggingFace Transformers -> ML model
+- DistilBERT -> sentiment classification model
+- Uvicorn -> ASGI server
