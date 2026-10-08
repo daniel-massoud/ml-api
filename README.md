@@ -1,7 +1,7 @@
 # ML API — Sentiment Analysis
 
 A production-ready REST API for sentiment analysis, containerized with Docker.
-Send text to the API, get back a sentiment label and confidence score.
+Send text to the API, get back a sentiment label and confidence score...
 
 ---
 
